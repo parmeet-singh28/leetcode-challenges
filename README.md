@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
@@ -45,9 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
