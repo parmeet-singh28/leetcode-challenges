@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/0835-image-overlap) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
