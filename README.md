@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parmeet-singh28/leetcode-challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Geometry
 |  |
 | ------- |
